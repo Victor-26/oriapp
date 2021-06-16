@@ -23,7 +23,6 @@
 |  title       |   string  | null: false                   |
 | explanation  |   text    | null: false                   |
 | category_id  | integer   | null: false                   |
-| explanation  |   text    | null: false                   |
 |   user       | reference | null: false,foreign_key: true |
 ### Association
 
